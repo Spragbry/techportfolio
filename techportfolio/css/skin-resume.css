@@ -48,7 +48,7 @@ body{
 	font-weight: 300;
 	font-size: 1.4rem;
 	line-height: 1.8;
-	color: lightskyblue;
+	color: rgb(18, 73, 192);
 }
 h1,
 h2,
@@ -79,7 +79,7 @@ h6{
 	line-height: 1.2;
 	font-weight: 400;
 	text-transform: none;
-	color: darkred;
+	color: red;
 }
 h1 a:hover,
 h2 a:hover,
@@ -87,7 +87,7 @@ h3 a:hover,
 h4 a:hover,
 h5 a:hover,
 h6 a:hover{
-	color: white;
+	color: #ef8700;
 }
 h1{
 	font-size: 4.381rem;
@@ -113,7 +113,7 @@ h6{
 .footer .widget-title a{
 	font-size: 1.862rem;
 	letter-spacing: 0;
-	color: white;
+	color: red;
 }
 .sidebar .widget-title,
 .sidebar .widget-title a{
