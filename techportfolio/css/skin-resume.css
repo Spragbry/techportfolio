@@ -198,12 +198,12 @@ a.animated-link{
 a,
 p a,
 .box a:not(.button){
-	color: #292929;
+	color: red;
 }
 .sidebar .widget a,
 .shop .product-summary a,
 .shop .cart-overview a{
-	color: #666;
+	color: white;
 }
 a:hover,
 p a:hover,
@@ -2070,13 +2070,13 @@ h4.project-title{
 .grid-filter-menu a{
 	padding: 0.5rem 0;
 	font-weight: 400;
-	color: #999;
+	color: white;
 	display: block;
 	position: relative;
 	border-bottom: 1px solid transparent;
 }
 .grid-filter-menu a:hover{
-	color: #000;
+	color: #ef8700;
 }
 .grid-filter-menu a.active{
 	color: #000;
