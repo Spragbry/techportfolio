@@ -48,7 +48,7 @@ body{
 	font-weight: 300;
 	font-size: 1.4rem;
 	line-height: 1.8;
-	color: rgb(18, 73, 192);
+	color: grey;
 }
 h1,
 h2,
@@ -79,7 +79,7 @@ h6{
 	line-height: 1.2;
 	font-weight: 400;
 	text-transform: none;
-	color: red;
+	color: grey;
 }
 h1 a:hover,
 h2 a:hover,
@@ -113,7 +113,7 @@ h6{
 .footer .widget-title a{
 	font-size: 1.862rem;
 	letter-spacing: 0;
-	color: red;
+	color: lightgrey;
 }
 .sidebar .widget-title,
 .sidebar .widget-title a{
@@ -198,7 +198,7 @@ a.animated-link{
 a,
 p a,
 .box a:not(.button){
-	color: red;
+	color: lightgrey;
 }
 .sidebar .widget a,
 .shop .product-summary a,
@@ -387,8 +387,8 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #ef8700;
-	border-color: #ef8700;
+	background-color: greenyellow;
+	border-color: greenyellow;
 }
 .bkg-hover-theme:hover{
 	background-color: #ef8700;
