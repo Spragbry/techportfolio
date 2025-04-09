@@ -1,3 +1,3 @@
 # techportfolio
+https://spragbry.github.io/techportfolio/
 
-# Bryce Spraggins Porfolio
